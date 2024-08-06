@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Zack</h1>
-<h3 align="center">A passionate software developer from New York</h3>
+<h3 align="center">A passionate Software Engineer from New York</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/391/39194.gif">
 
 - 📫 Where to reach me **zmamdouh10@gmail.com**
