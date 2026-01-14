@@ -1,4 +1,3 @@
-<h1 align="center"> Hey!! I'm Zack</h1>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/391/39194.gif">
 
 <h3 align="left">Connect with me:</h3>
