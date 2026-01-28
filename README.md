@@ -88,9 +88,11 @@
 
  <!-- SQL Server (manual SVG because skillicons doesn't support `sqlserver`) -->
   <img height="46" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/sqlserver-auto.svg" alt="SQL Server" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=12" alt="SQL Server, MySQL, PostgreSQL, MongoDB, Redis, DynamoDB" />
+
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,dynamodb&perline=12" alt="SQL Server, MySQL, PostgreSQL, MongoDB, Redis, DynamoDB" />
+
 <!-- Cosmos DB (manual SVG because skillicons doesn't include a cosmosdb icon ID) -->
-  <img height="46" src="https://www.azureicons.com/icons/azure-cosmos-db.svg" alt="Azure Cosmos DB" />
+  <img height="46" src="https://raw.githubusercontent.com/MarczakIO/azure-portal-icons/master/icons/Azure%20Cosmos%20DB.svg" alt="Azure Cosmos DB" />
 </p>
 <p>
   <p>
