@@ -1,7 +1,9 @@
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/391/39194.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="zackariamamdouh.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-himthe.dev-informational?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:zmamdouh10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bogdan.mosteanu@hey.com-informational?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 <a href="https://linkedin.com/in/zackaria-mamdouh-05930a194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zackaria-mamdouh-05930a194/" height="30" width="40" /></a>
 </p>
 
