@@ -36,9 +36,9 @@
   <img src="https://skillicons.dev/icons?i=linux,windows,apple,git,bash&perline=12" alt="Linux, Windows, macOS, Git, Bash" />
 </p>
 <p>
-  <sub>
+  <p>
     <code>Linux</code> • <code>Windows</code> • <code>macOS</code> • <code>Git</code> • <code>Bash</code>
-  </sub>
+  </p>
 </p>
 
 ---
@@ -49,9 +49,9 @@
   <img src="https://skillicons.dev/icons?i=cs,java,cpp,python,js,ts&perline=12" alt="C#, Java, C++, Python, JavaScript, TypeScript" />
 </p>
 <p>
-  <sub>
+  <p>
     <code>C#</code> • <code>Java</code> • <code>C++</code> • <code>Python</code> • <code>JavaScript</code> • <code>TypeScript</code>
-  </sub>
+  </p>
 </p>
 
 ---
@@ -62,9 +62,9 @@
   <img src="https://skillicons.dev/icons?i=html,css&perline=12" alt="HTML, CSS" />
 </p>
 <p>
-  <sub>
+  <p>
     <code>HTML</code> • <code>CSS</code>
-  </sub>
+  </p>
 </p>
 
 ---
@@ -75,9 +75,9 @@
   <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,flask&perline=12" alt=".NET, React, Node.js, Flask" />
 </p>
 <p>
-  <sub>
+  <p>
     <code>.NET / .NET Core</code> • <code>Blazor</code> • <code>React</code> • <code>Node.js</code> • <code>Flask</code>
-  </sub>
+  </p>
 </p>
 
 ---
@@ -85,12 +85,17 @@
 ### Data & Persistence
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres,mongodb,redis&perline=12" alt="SQL Server, MySQL, PostgreSQL, MongoDB, Redis" />
+
+ <!-- SQL Server (manual SVG because skillicons doesn't support `sqlserver`) -->
+  <img height="46" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/sqlserver-auto.svg" alt="SQL Server" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=12" alt="SQL Server, MySQL, PostgreSQL, MongoDB, Redis, DynamoDB" />
+<!-- Cosmos DB (manual SVG because skillicons doesn't include a cosmosdb icon ID) -->
+  <img height="46" src="https://www.azureicons.com/icons/azure-cosmos-db.svg" alt="Azure Cosmos DB" />
 </p>
 <p>
-  <sub>
+  <p>
     <code>SQL Server</code> • <code>Entity Framework Core</code> • <code>MySQL</code> • <code>PostgreSQL</code> • <code>MongoDB</code> • <code>DynamoDB</code> • <code>Cosmos DB</code>
-  </sub>
+  </p>
 </p>
 
 ---
@@ -101,9 +106,9 @@
   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker&perline=12" alt="Azure, AWS, GCP, Docker" />
 </p>
 <p>
-  <sub>
+  <p>
     <code>Azure DevOps (CI/CD)</code> • <code>AWS</code> • <code>GCP</code> • <code>Docker</code>
-  </sub>
+  </p>
 </p>
 
 ---
@@ -114,9 +119,9 @@
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma&perline=12" alt="VS Code, Postman, Figma" />
 </p>
 <p>
-  <sub>
+  <p>
     <code>VS Code</code> • <code>Postman</code> • <code>SQL Server Management Studio</code> • <code>DBeaver</code>
-  </sub>
+  </p>
 </p>
 
 ---
@@ -124,7 +129,7 @@
 ### Testing & Libraries
 
 <p>
-  <sub>
+  <p>
     <code>JUnit</code> • <code>pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>NUnit</code>
-  </sub>
+  </p>
 </p>
