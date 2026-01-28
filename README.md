@@ -7,7 +7,9 @@
       alt="Website: zackariamamdouh.com"
     />
   </a>
-  &nbsp;
+</p>
+
+<p>
   <a href="mailto:zmamdouh10@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-zmamdouh10@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white"
