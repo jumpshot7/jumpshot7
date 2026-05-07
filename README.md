@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/391/39194.gif">
+<img align="right" alt="Coding" width="300" src="https://giffiles.alphacoders.com/391/39194.gif">
 
 <p align="center">
   <a href="https://zackariamamdouh.com" target="_blank" rel="noreferrer">
