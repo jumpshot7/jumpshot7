@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠 Stacks I Work With
+## Stacks I Work With
 
 ### Core Systems & Tooling
 
